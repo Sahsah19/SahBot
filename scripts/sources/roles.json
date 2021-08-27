@@ -1,0 +1,261 @@
+[
+    {
+        "role_name": "All Classes",
+        "class_name": "All Classes",
+        "class_category": "main",
+        "symbol": "🤯"
+    },
+
+    {
+        "role_name": "Running Start",
+        "class_name": "Running Start",
+        "class_category": "main",
+        "symbol": "🏃‍♂️"
+    },
+
+    {
+        "role_name": "Gaming/Off Topic",
+        "class_name": "Gaming/Off Topic",
+        "class_category": "main",
+        "symbol": "🤪"
+    },
+
+    {
+        "role_name": "Archives",
+        "class_name": "Archives",
+        "class_category": "main",
+        "symbol": "👴"
+    },
+
+    {
+        "role_name": "AP Lit",
+        "class_name": "AP Literature",
+        "class_category": "eng",
+        "symbol": "📘"
+    },
+
+    {
+        "role_name": "Contemporary Lit",
+        "class_name": "Contemporary Literature",
+        "class_category": "eng",
+        "symbol": "📗"
+    },
+
+    {
+        "role_name": "Precalc",
+        "class_name": "Precalculus",
+        "class_category": "math",
+        "symbol": "📏"
+    },
+
+    {
+        "role_name": "Calculus",
+        "class_name": "Calculus",
+        "class_category": "math",
+        "symbol": "📐"
+    },
+
+    {
+        "role_name": "AP Calculus AB",
+        "class_name": "AP Calculus AB",
+        "class_category": "math",
+        "symbol": "🧮"
+    },
+
+    {
+        "role_name": "AP Calculus BC",
+        "class_name": "AP Calculus BC",
+        "class_category": "math",
+        "symbol": "🔢"
+    },
+
+
+    {
+        "role_name": "AP Stats",
+        "class_name": "AP Statistics",
+        "class_category": "math",
+        "symbol": "📊"
+    },
+
+    {
+        "role_name": "AP Econ",
+        "class_name": "AP Economics",
+        "class_category": "sst",
+        "symbol": "📈"
+    },
+
+    {
+        "role_name": "AP Gov",
+        "class_name": "AP Government",
+        "class_category": "sst",
+        "symbol": "👩‍🎓"
+    },
+
+    {
+        "role_name": "Civics",
+        "class_name": "Civics",
+        "class_category": "sst",
+        "symbol": "🤨"
+    },
+
+    {
+        "role_name": "Psychology",
+        "class_name": "Psychology",
+        "class_category": "sst",
+        "symbol": "🧠"
+    },
+
+    {
+        "role_name": "AP Bio",
+        "class_name": "AP Biology",
+        "class_category": "sci",
+        "symbol": "🧬"
+    },
+
+    {
+        "role_name": "APES",
+        "class_name": "AP Environmental Science",
+        "class_category": "sci",
+        "symbol": "🌎"
+    },
+
+    {
+        "role_name": "AP Chemistry",
+        "class_name": "AP Chemistry",
+        "class_category": "sci",
+        "symbol": "🧪"
+    },
+
+    {
+        "role_name": "AP Physics",
+        "class_name": "AP Physics",
+        "class_category": "sci",
+        "symbol": "🤮"
+    },
+
+    {
+        "role_name": "Astronomy",
+        "class_name": "Astronomy",
+        "class_category": "sci",
+        "symbol": "🪐"
+    },
+
+    {
+        "role_name": "Physics",
+        "class_name": "Physics",
+        "class_category": "sci",
+        "symbol": "🚙"
+    },
+
+    {
+        "role_name": "Spanish",
+        "class_name": "Spanish",
+        "class_category": "wlang",
+        "symbol": "🌮"
+    },
+
+    {
+        "role_name": "French",
+        "class_name": "French",
+        "class_category": "wlang",
+        "symbol": "🥖"
+    },
+
+    {
+        "role_name": "Japanese",
+        "class_name": "Japanese",
+        "class_category": "wlang",
+        "symbol": "🍣"
+    },
+
+    {
+        "role_name": "Chinese",
+        "class_name": "Chinese",
+        "class_category": "wlang",
+        "symbol": "🥟"
+    },
+
+    {
+        "role_name": "AP Spanish",
+        "class_name": "AP Spanish",
+        "class_category": "wlang",
+        "symbol": "🌯"
+    },
+
+    {
+        "role_name": "AP Computer Science Principles",
+        "class_name": "AP Computer Science Principles",
+        "class_category": "comp",
+        "symbol": "⌨️"
+    },
+
+    {
+        "role_name": "AP Computer Science A",
+        "class_name": "AP Computer Science A",
+        "class_category": "comp",
+        "symbol": "🖥️"
+    },
+
+    {
+        "role_name": "Unity w/C#",
+        "class_name": "Unity w/C#",
+        "class_category": "comp",
+        "symbol": "🤓"
+    },
+
+    {
+        "role_name": "Gaming",
+        "class_name": "Gaming",
+        "class_category": "misc",
+        "symbol": "🎮"
+    },
+
+    {
+        "role_name": "League",
+        "class_name": "League",
+        "class_category": "misc",
+        "symbol": "🤬"
+    },
+
+    {
+        "role_name": "LeagueLurk",
+        "class_name": "LeagueLurk",
+        "class_category": "misc",
+        "symbol": "🤫"
+    },
+
+    {
+        "role_name": "Minecraft",
+        "class_name": "Minecraft",
+        "class_category": "misc",
+        "symbol": "⛏️"
+    },
+
+    {
+        "role_name": "Among Us",
+        "class_name": "Among Us",
+        "class_category": "misc",
+        "symbol": "😳"
+    },
+
+    {
+        "role_name": "Tetris",
+        "class_name": "Tetris",
+        "class_category": "misc",
+        "symbol": "🟦"
+    },
+
+    {
+        "role_name": "Music",
+        "class_name": "Music",
+        "class_category": "misc",
+        "symbol": "🎵"
+    },
+
+    {
+        "role_name": "SAT/ACT",
+        "class_name": "Standardized Testing",
+        "class_category": "misc",
+        "symbol": "🤕"
+    }
+]
