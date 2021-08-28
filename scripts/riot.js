@@ -1,8 +1,5 @@
 const { riot_key } = require('../config.json');
 
-
-
-/* THIS IS TEST CODE  */
 module.exports = {
     name: 'riot',
     description: 'test riot api',

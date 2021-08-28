@@ -1,5 +1,7 @@
 {
     "prefix": "s!",
+    "verification": "822703872501219348",
+    "rules": "697152976493740085",
     "token": "I'm not gonna leak my token",
     "riot_key": "Get your own Riot API Key"
 }

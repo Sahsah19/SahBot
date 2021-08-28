@@ -1,7 +1,7 @@
 const roles = require('./sources/roles.json');
 
 const quotes = [
-    // Insert Quotes Here
+ //Insert quotes here.
 ]
 
 function getQuote(){

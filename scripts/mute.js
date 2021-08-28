@@ -6,7 +6,7 @@ module.exports = {
     execute(message, args) {
         message.delete();
 
-        if (message.member.roles.cache.has('618556966284951582') === false || message.member.roles.cache.has('629877934949269506' === false)) {
+        if (message.member.roles.cache.has('618556966284951582') === false || message.member.roles.cache.has('629877934949269506') === false) {
             message.member.send('You do not have the permission to use this command');
             return;
         }

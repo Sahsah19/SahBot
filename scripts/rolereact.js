@@ -15,6 +15,8 @@ module.exports = {
             return;
         }
 
+        message.channel.send(embeds.roleStart);
+
         for(var i = 0; i < embeds.roleEmbeds.length; i++){
             let messageEmbed = await message.channel.send(embeds.roleEmbeds[i]);
             

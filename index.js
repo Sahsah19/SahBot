@@ -1,6 +1,6 @@
 const fs = require('fs');
 const https = require('https');
-const { prefix, token } = require('./config.json');
+const { prefix, token, verification, rules } = require('./config.json');
 const main = require('./scripts/main.js');
 
 
@@ -21,7 +21,7 @@ client.on('ready', () => {
 
 
 client.on('message', message => {
-    if (message.channel.id === '822703872501219348') {
+    if (message.channel.id === verification) {
         client.commands.get('verification').execute(message, Discord, client);
         return;
     } else if (!message.content.startsWith(prefix) || message.author.bot) return;
@@ -32,10 +32,15 @@ client.on('message', message => {
     try {
         client.commands.get(args[0]).execute(message, args, Discord, client, https);
     } catch (error) {
+        message.delete();
         console.error(error);
-        message.member.send('An error occurred while trying to process your request. Please try again or type **s!help** to see the list of commands available.')
+        message.member.send('An error occurred while trying to process your request.')
     }
 });
+
+client.on('guildMemberAdd', member => {
+    member.send(`Welcome to the ${member.guild.name} Discord Server!\nBefore you get started please read the server rules located in the <#${rules}>\nthen head over to the <#${verification}> channel to get verified and access to the server.`);
+})
 
 client.login(token);
 

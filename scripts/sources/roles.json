@@ -1,28 +1,28 @@
 [
     {
         "role_name": "All Classes",
-        "class_name": "All Classes",
+        "class_name": "All Classes - **See the text and voice channels for every single class**",
         "class_category": "main",
         "symbol": "🤯"
     },
 
     {
         "role_name": "Running Start",
-        "class_name": "Running Start",
+        "class_name": "Running Start - **See the running start channels**",
         "class_category": "main",
         "symbol": "🏃‍♂️"
     },
 
     {
         "role_name": "Gaming/Off Topic",
-        "class_name": "Gaming/Off Topic",
+        "class_name": "Gaming/Off Topic - **See the Gaming/Off Topic Channels**",
         "class_category": "main",
         "symbol": "🤪"
     },
 
     {
         "role_name": "Archives",
-        "class_name": "Archives",
+        "class_name": "Archives - **See the archived channels from previous years**",
         "class_category": "main",
         "symbol": "👴"
     },
